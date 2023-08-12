@@ -1,4 +1,4 @@
 variable "buck-name" {
-    #default = "test-buck1239675"
+    default = "test-buck1239675"
 }
 
